@@ -1,0 +1,15 @@
+# Игнорировать папку .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Игнорировать файлы временных данных
+*.log
+*.tmp
+
+# Игнорировать файлы окружения Python
+__pycache__/
+*.pyc
+.env
+
+# Игнорировать файлы настроек IDE
+.idea/
+.vscode/

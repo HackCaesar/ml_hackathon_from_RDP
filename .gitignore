@@ -13,3 +13,4 @@ __pycache__/
 # Игнорировать файлы настроек IDE
 .idea/
 .vscode/
+.ipynb_checkpoints/

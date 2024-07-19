@@ -1,4 +1,5 @@
 Task 1.
+
 In a telecommunications network, data transfer occurs using two protocols A, B. However, information has appeared that a third protocol C has begun to be used for data transfer.
 After some time and through incredible efforts, it was possible to obtain a data set (dataset) of sessions of this protocol. Moreover, it was possible to detect this protocol with a high probability.
 But the problem is that when working simultaneously, the quality of information transmission suffers, and it is very important that Protocol A functions without loss of quality.
